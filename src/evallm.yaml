@@ -1,0 +1,13 @@
+artichokes:
+    criteria:
+        - "Does the review recommend the artichoke slice?"
+        - "Does the review mention that the slices are very large and oily?"
+        - "Does the review suggest the restaurant is great for late nights?"
+        - "Does the review mention lines can be long after parties?"
+        - "Does the review mention that the restaurant is mostly takeout with a few outdoor seats?"
+sliver:
+    criteria:
+        - "Does the review mention the slice of the day?"
+        - "Does the review mention that the restaurant does not serve meat?"
+        - "Does the review mention that the restaurant is very vegan friendly?"
+        - "Does the review explain that the name Sliver refers to the extra slice you get with each pizza?"

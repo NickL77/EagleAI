@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/eagle.py
+src/EagleAI.egg-info/PKG-INFO
+src/EagleAI.egg-info/SOURCES.txt
+src/EagleAI.egg-info/dependency_links.txt
+src/EagleAI.egg-info/top_level.txt

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: EagleAI
+Version: 0.0.1
+Summary: Evaluation for LLMs
+Author-email: Nicholas Liu <nicholas.j.liu@gmail.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Python Client for EagleAI
